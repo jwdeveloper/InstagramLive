@@ -20,7 +20,7 @@
 </a>
 
 <a target="blank" >
-<img src="https://img.shields.io/badge/dotnet-7.0-blue" >
+<img src="https://img.shields.io/badge/dotnet-7.0-blue" height="28px" >
 </a>
 </div>
 </div>
