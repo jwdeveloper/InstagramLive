@@ -40,6 +40,7 @@ Join the support [discord](https://discord.gg/e2XwPNTBBr) and visit the `#instag
 ```
 <br>
 </br>
+
 2. Create your first chat connection
 ```C#
 
