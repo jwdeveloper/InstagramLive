@@ -11,7 +11,7 @@
 
 <div align="center" >
 <a href="https://www.nuget.org/packages/InstaLiveDotNet/" target="blank" >
-<img src="https://img.shields.io/nuget/v/SoftCircuits.Silk.svg?style=flat-square" width="120px"  height="30px" >
+<img src="https://img.shields.io/nuget/v/SoftCircuits.Silk.svg?style=flat-square" width="120px"  height="28px" >
 </a>
 
 
@@ -20,7 +20,7 @@
 </a>
 
 <a target="blank" >
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" >
+<img src="https://img.shields.io/badge/dotnet-7.0-blue" >
 </a>
 </div>
 </div>
