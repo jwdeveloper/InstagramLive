@@ -1,10 +1,11 @@
 <div align="center" >
 <a target="blank" >
-<img src="https://raw.githubusercontent.com/jwdeveloper/TikTokLiveJava/develop-1_0_0/Tools-ReadmeGenerator/src/main/resources/logo.svg" width="15%" >
+<img src="https://github.com/user-attachments/assets/7c8b9bdf-5e56-47ec-8180-bd57230ff5ce2" width="15%" >
 </a>
 </div>
 <div align="center" >
 <h1>Instagram Live</h1>
+
 
 ❤️❤️🎁 *Connect to Instagram live in 3 lines* 🎁❤️❤️
 
