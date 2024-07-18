@@ -26,43 +26,18 @@
 </div>
 
 # Introduction
-
+A C# library dedicated for connecting to Instagram live.
 
 
 Join the support [discord](https://discord.gg/e2XwPNTBBr) and visit the `#instagram-support` channel for questions, contributions and ideas. Feel free to make pull requests with missing/new features, fixes, etc
 
 **NOTE:** This is not an official API. It's a reverse engineering project.
 
-#### Overview
-- [Getting started](#getting-started)
-- [Example](#example)
-- [Contributing](#contributing)
-
 ## Getting started
-
 1. Install the package
 
-Maven
-```xml
-   <repositories>
-        <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </repository>
-    </repositories>
-
-   <dependencies>
-         <dependency>
-            <groupId>com.github.jwdeveloper.TikTok-Live-Java</groupId>
-            <artifactId>Client</artifactId>
-             <version>1.8.0-Release</version>
-            <scope>compile</scope>
-        </dependency>
-   </dependencies>
-```
 
 2. Create your first chat connection
-
 ```C#
 
 var client = InstagramLive
