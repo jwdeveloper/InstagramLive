@@ -10,8 +10,8 @@
 ❤️❤️🎁 *Connect to Instagram live in 3 lines* 🎁❤️❤️
 
 <div align="center" >
-<a href="https://jitpack.io/#jwdeveloper/TikTok-Live-Java" target="blank" >
-<img src="https://jitpack.io/v/jwdeveloper/TikTok-Live-Java.svg" width="20%" >
+<a href="https://www.nuget.org/packages/InstaLiveDotNet/" target="blank" >
+<img src="https://img.shields.io/nuget/v/SoftCircuits.Silk.svg?style=flat-square" width="120px"  height="30px" >
 </a>
 
 
