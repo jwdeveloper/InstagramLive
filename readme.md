@@ -34,15 +34,12 @@ Join the support [discord](https://discord.gg/e2XwPNTBBr) and visit the `#instag
 **NOTE:** This is not an official API. It's a reverse engineering project.
 
 ## Getting started
-1. Install the package 
-<div align="left" >
-<a href="https://www.nuget.org/packages/InstaLiveDotNet/" target="blank" >
-<img src="https://img.shields.io/nuget/v/SoftCircuits.Silk.svg?style=flat-square" width="120px"  height="30px" >
-</a>
+1. Install the package <a href="https://www.nuget.org/packages/InstaLiveDotNet/" target="blank" ><img src="https://img.shields.io/nuget/v/SoftCircuits.Silk.svg?style=flat-square" width="100px"  height="25px"></a>
+```java
+<PackageReference Include="InstaLiveDotNet" Version="1.0.0" />
+```
 <br>
 </br>
-
-
 2. Create your first chat connection
 ```C#
 
